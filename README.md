@@ -10,6 +10,7 @@ An interactive Power BI dashboard that analyzes employee attrition across depart
 
 
 ## Tools
+- Excel (data preparation and cleaning)
 - Power BI (DAX measures, interactive slicers)
 - MySQL (SQL analysis in `HR_Analytics_Dataset_analysis.sql`)
 
